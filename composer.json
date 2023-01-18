@@ -1,0 +1,12 @@
+{
+    "name": "cwallet/ccpayment",
+    "description": "encrypt currency payment",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chries"
+        }
+    ],
+    "require": {}
+}
